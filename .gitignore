@@ -1,8 +1,7 @@
 # General
 .DS_Store
 *~
-settings.gradle
-*.bat
+
 # Android Studio
 .idea/
 *.properties
