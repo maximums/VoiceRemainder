@@ -1,11 +1,11 @@
 # General
 .DS_Store
 *~
-
+settings.gradle
+*.bat
 # Android Studio
 .idea/
-.gradle
-local.properties
+*.properties
 /*/out
 build
 *.iml
