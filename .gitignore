@@ -4,7 +4,8 @@
 
 # Android Studio
 .idea/
-*.properties
+.gradle
+local.properties
 /*/out
 build
 *.iml
